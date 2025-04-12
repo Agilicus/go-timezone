@@ -1,3 +1,3 @@
-module github.com/sajjaphani/go-timezone
+module github.com/Agilicus/go-timezone
 
 go 1.18
